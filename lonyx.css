@@ -1,0 +1,59 @@
+.container {
+  display: flex;
+  background-color: #583672;
+  flex-direction: row;
+  width: 100%;
+  height: 100vh;
+}
+.box1 {
+  background-color: aliceblue;
+  width: 400px;
+  height: 400px;
+  margin-top: 170px;
+  margin-left: 340px;
+}
+img {
+  width: 400px;
+  height: 400px;
+  margin-top: 170px;
+}
+.box3 {
+  margin-left: 100px;
+  margin-top: 80px;
+}
+.b1 {
+  background-color: #583672;
+  border-radius: 30px;
+  margin-left: 40px;
+  margin-top: 30px;
+  border: none;
+  width: 80px;
+  height: 30px;
+}
+.sign {
+  margin-left: 45px;
+}
+#username {
+  border: none;
+  width: 80%;
+  margin: 15px 0px;
+  border-bottom: 1px solid #4f30677d;
+  padding: 7px 9px;
+  width: 100%;
+  overflow: hidden;
+  background: transparent;
+  font-weight: 600;
+  font-size: 14px;
+}
+#password {
+  border: none;
+  width: 80%;
+  margin: 15px 0px;
+  border-bottom: 1px solid #4f30677d;
+  padding: 7px 9px;
+  width: 100%;
+  overflow: hidden;
+  background: transparent;
+  font-weight: 600;
+  font-size: 14px;
+}
